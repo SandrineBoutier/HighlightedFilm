@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "highlighted-film-client-side-solution",
+    "id": "1bc5a890-fc76-4322-aea3-1e1ec1881151",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "highlighted-film description"
+      },
+      "longDescription": {
+        "default": "highlighted-film description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "highlighted-film Feature",
+        "description": "The feature that activates elements of the highlighted-film solution.",
+        "id": "61f72ee2-f03b-461d-9e6a-f765a17fe0d9",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/highlighted-film.sppkg"
+  }
+}

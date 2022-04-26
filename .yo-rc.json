@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "highlighted-film",
+    "libraryId": "1bc5a890-fc76-4322-aea3-1e1ec1881151",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "highlighted-film",
+    "solutionShortDescription": "highlighted-film description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
